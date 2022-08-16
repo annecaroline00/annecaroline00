@@ -24,7 +24,7 @@
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anne-caroline-da-silva-sousa-00/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/annecaroline00/annecaroline00/blob/main/.github/workflows/main.yml)
+  ![Snake animation](https://github.com/annecaroline00/annecaroline00/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
